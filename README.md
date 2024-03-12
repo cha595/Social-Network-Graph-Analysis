@@ -1,6 +1,6 @@
-# IG Analysis
+# Exploratory Data Analysis on Instagram Connections Network 
 
-This project is only an educational project and has no other purpose. Also, the data extraction is not done by any automated bots, and due to the minority of the data points, it was collected manually.
+This project is only an educational project and has no other purpose. Also, the data extraction is not done by any automated bots, and due to the small number of the data points, it was collected manually.
 
 No username is used in the repository, and the report.
 
@@ -19,7 +19,7 @@ No username is used in the repository, and the report.
 Genereated with [Gephi](https://github.com/gephi/gephi).
 
 ## Analysis
-On [this article]().
+On [this article](https://medium.com/@girraffael/network-statistical-analysis-on-my-instagram-connections-graph-c5ca91062d47).
 
 
 ## Simplifications
