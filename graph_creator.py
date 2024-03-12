@@ -11,7 +11,7 @@ if __name__ == '__main__':
     st = time.time()
     all_names = [f.strip() for f in open('./all_names.csv').readlines()]
     
-    # create matric
+    # create matrix
     graph = pd.DataFrame(index=all_names, columns=all_names)
     graph.fillna('0', inplace=True)
     
